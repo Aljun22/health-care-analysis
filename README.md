@@ -23,4 +23,4 @@ This project focuses on analyzing healthcare-related data to uncover key trends,
  📷 Dashboard Preview
 Below is a screenshot of the Tableau dashboard created for this project:
 
-![Healthcare Dashboard Screenshot](./Images/healthcare.png)
+![Healthcare Dashboard Screenshot](./Images3/healthcare.png)
