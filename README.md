@@ -5,8 +5,7 @@ This project focuses on analyzing healthcare-related data to uncover key trends,
 
  🛠️ Tools Used
 - **Tableau** – For data visualization and dashboard creation  
-- **Excel** – For initial data cleaning and preprocessing  
-- **Power BI (optional)** – For cross-checking visuals and insights  
+- **Excel** – For initial data cleaning and preprocessing   
 - **Git & GitHub** – For version control and project sharing  
 
  📊 Insights
@@ -24,4 +23,4 @@ This project focuses on analyzing healthcare-related data to uncover key trends,
  📷 Dashboard Preview
 Below is a screenshot of the Tableau dashboard created for this project:
 
-![Healthcare Dashboard Screenshot](./screenshots/healthcare_dashboard.png)
+![Healthcare Dashboard Screenshot](./Images/healthcare.png)
